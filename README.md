@@ -1,2 +1,2 @@
 # lerningWeb
-Aprendendo desenvolvimento web do zero.
+Aprendendo desenvolvimento web.
