@@ -1,2 +1,2 @@
-# lerningWeb
+# learningWeb
 Aprendendo desenvolvimento web.
